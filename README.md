@@ -1,6 +1,6 @@
 # GapGPT Chatbot
 
-یک کلاینت وب ساده، مدرن و سبک (Dark Mode) برای اتصال به API خدمات GapGPT با پشتیبانی کامل از قابلیت حفظ مکالمه (Context) و قابلیت‌های پیشرفته.
+یک کلاینت وب ساده، برای اتصال به API خدمات GapGPT با پشتیبانی کامل از قابلیت حفظ مکالمه (Context) و قابلیت‌های پیشرفته.
 
 دمو: https://behnamonline.github.io/gapgpt-chatbot
 
